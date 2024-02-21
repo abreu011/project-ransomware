@@ -1,0 +1,2 @@
+Texto qualquer no arquivo test.txt sem criptografia
+
